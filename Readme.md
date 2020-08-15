@@ -6,7 +6,6 @@ Define the installation location at the top in install_location. This should poi
 
 Usage:
 
-Copy to clipboard
 1. Download the device_sync.py file and place it anywhere on the system
 2. Run python3 device_sync.py as a user with write access to HA
 3. Restart the HA server 
